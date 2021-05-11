@@ -1,10 +1,4 @@
 [
-    {
-        "github_user" : "gesslar",
-        "project_name": "sefun-tail"
-    },
-    {
-        "github_user" : "gesslar",
-        "project_name": "sefun-tail2"
-    }
+    { "github_user": "gesslar", "project_name": "sefun-tail" },
+    { "github_user": "gesslar", "project_name": "sefun-tail2" }
 ]
